@@ -1,51 +1,130 @@
 fileFormatVersion: 2
 guid: db562351396e6374c8afdfd7cd8b4693
 ScriptedImporter:
-  fileIDToRecycleName:
-    100000: barashekk_GO/barashekk_GO
-    100002: "barashekk_GO/barashekk_GO/body \u043A\u043E\u043F\u0438\u044F"
-    100004: barashekk_GO/barashekk_GO/eyes
-    100006: barashekk_GO/barashekk_GO/tail
-    100008: "barashekk_GO/barashekk_GO/\u0421\u043B\u043E\u0439 10 \u043A\u043E\u043F\u0438\u044F"
-    100010: "barashekk_GO/barashekk_GO/\u0421\u043B\u043E\u0439 11 \u043A\u043E\u043F\u0438\u044F
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: barashekk_GO/barashekk_GO
+  - first:
+      1: 100002
+    second: "barashekk_GO/barashekk_GO/body \u043A\u043E\u043F\u0438\u044F"
+  - first:
+      1: 100004
+    second: barashekk_GO/barashekk_GO/eyes
+  - first:
+      1: 100006
+    second: barashekk_GO/barashekk_GO/tail
+  - first:
+      1: 100008
+    second: "barashekk_GO/barashekk_GO/\u0421\u043B\u043E\u0439 10 \u043A\u043E\u043F\u0438\u044F"
+  - first:
+      1: 100010
+    second: "barashekk_GO/barashekk_GO/\u0421\u043B\u043E\u0439 11 \u043A\u043E\u043F\u0438\u044F
       2"
-    100012: barashekk_GO/barashekk_GO/bone_1
-    100014: barashekk_GO/barashekk_GO/bone_1/bone_2
-    100016: barashekk_GO/barashekk_GO/bone_1/bone_3
-    100018: barashekk_GO/barashekk_GO/bone_1/bone_4
-    100020: barashekk_GO/barashekk_GO/bone_1/bone_5
-    400000: barashekk_GO/barashekk_GO/Transform
-    400002: "barashekk_GO/barashekk_GO/body \u043A\u043E\u043F\u0438\u044F/Transform"
-    400004: barashekk_GO/barashekk_GO/eyes/Transform
-    400006: barashekk_GO/barashekk_GO/tail/Transform
-    400008: "barashekk_GO/barashekk_GO/\u0421\u043B\u043E\u0439 10 \u043A\u043E\u043F\u0438\u044F/Transform"
-    400010: "barashekk_GO/barashekk_GO/\u0421\u043B\u043E\u0439 11 \u043A\u043E\u043F\u0438\u044F
+  - first:
+      1: 100012
+    second: barashekk_GO/barashekk_GO/bone_1
+  - first:
+      1: 100014
+    second: barashekk_GO/barashekk_GO/bone_1/bone_2
+  - first:
+      1: 100016
+    second: barashekk_GO/barashekk_GO/bone_1/bone_3
+  - first:
+      1: 100018
+    second: barashekk_GO/barashekk_GO/bone_1/bone_4
+  - first:
+      1: 100020
+    second: barashekk_GO/barashekk_GO/bone_1/bone_5
+  - first:
+      4: 400000
+    second: barashekk_GO/barashekk_GO/Transform
+  - first:
+      4: 400002
+    second: "barashekk_GO/barashekk_GO/body \u043A\u043E\u043F\u0438\u044F/Transform"
+  - first:
+      4: 400004
+    second: barashekk_GO/barashekk_GO/eyes/Transform
+  - first:
+      4: 400006
+    second: barashekk_GO/barashekk_GO/tail/Transform
+  - first:
+      4: 400008
+    second: "barashekk_GO/barashekk_GO/\u0421\u043B\u043E\u0439 10 \u043A\u043E\u043F\u0438\u044F/Transform"
+  - first:
+      4: 400010
+    second: "barashekk_GO/barashekk_GO/\u0421\u043B\u043E\u0439 11 \u043A\u043E\u043F\u0438\u044F
       2/Transform"
-    400012: barashekk_GO/barashekk_GO/bone_1/Transform
-    400014: barashekk_GO/barashekk_GO/bone_1/bone_2/Transform
-    400016: barashekk_GO/barashekk_GO/bone_1/bone_3/Transform
-    400018: barashekk_GO/barashekk_GO/bone_1/bone_4/Transform
-    400020: barashekk_GO/barashekk_GO/bone_1/bone_5/Transform
-    2800000: barashekk
-    11400000: "barashekk_GO/barashekk_GO/body \u043A\u043E\u043F\u0438\u044F/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin"
-    11400002: barashekk_GO/barashekk_GO/eyes/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
-    11400004: barashekk_GO/barashekk_GO/tail/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
-    11400006: "barashekk_GO/barashekk_GO/\u0421\u043B\u043E\u0439 10 \u043A\u043E\u043F\u0438\u044F/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin"
-    11400008: "barashekk_GO/barashekk_GO/\u0421\u043B\u043E\u0439 11 \u043A\u043E\u043F\u0438\u044F
+  - first:
+      4: 400012
+    second: barashekk_GO/barashekk_GO/bone_1/Transform
+  - first:
+      4: 400014
+    second: barashekk_GO/barashekk_GO/bone_1/bone_2/Transform
+  - first:
+      4: 400016
+    second: barashekk_GO/barashekk_GO/bone_1/bone_3/Transform
+  - first:
+      4: 400018
+    second: barashekk_GO/barashekk_GO/bone_1/bone_4/Transform
+  - first:
+      4: 400020
+    second: barashekk_GO/barashekk_GO/bone_1/bone_5/Transform
+  - first:
+      28: 2800000
+    second: barashekk
+  - first:
+      114: 11400000
+    second: "barashekk_GO/barashekk_GO/body \u043A\u043E\u043F\u0438\u044F/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin"
+  - first:
+      114: 11400002
+    second: barashekk_GO/barashekk_GO/eyes/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
+  - first:
+      114: 11400004
+    second: barashekk_GO/barashekk_GO/tail/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
+  - first:
+      114: 11400006
+    second: "barashekk_GO/barashekk_GO/\u0421\u043B\u043E\u0439 10 \u043A\u043E\u043F\u0438\u044F/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin"
+  - first:
+      114: 11400008
+    second: "barashekk_GO/barashekk_GO/\u0421\u043B\u043E\u0439 11 \u043A\u043E\u043F\u0438\u044F
       2/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin"
-    21200000: "barashekk_GO/barashekk_GO/body \u043A\u043E\u043F\u0438\u044F/SpriteRenderer"
-    21200002: barashekk_GO/barashekk_GO/eyes/SpriteRenderer
-    21200004: barashekk_GO/barashekk_GO/tail/SpriteRenderer
-    21200006: "barashekk_GO/barashekk_GO/\u0421\u043B\u043E\u0439 10 \u043A\u043E\u043F\u0438\u044F/SpriteRenderer"
-    21200008: "barashekk_GO/barashekk_GO/\u0421\u043B\u043E\u0439 11 \u043A\u043E\u043F\u0438\u044F
+  - first:
+      212: 21200000
+    second: "barashekk_GO/barashekk_GO/body \u043A\u043E\u043F\u0438\u044F/SpriteRenderer"
+  - first:
+      212: 21200002
+    second: barashekk_GO/barashekk_GO/eyes/SpriteRenderer
+  - first:
+      212: 21200004
+    second: barashekk_GO/barashekk_GO/tail/SpriteRenderer
+  - first:
+      212: 21200006
+    second: "barashekk_GO/barashekk_GO/\u0421\u043B\u043E\u0439 10 \u043A\u043E\u043F\u0438\u044F/SpriteRenderer"
+  - first:
+      212: 21200008
+    second: "barashekk_GO/barashekk_GO/\u0421\u043B\u043E\u0439 11 \u043A\u043E\u043F\u0438\u044F
       2/SpriteRenderer"
-    21300000: 5115fffa8b21f8b45aac7a0ceff77d8f
-    21300002: c8587d1335025ce4fb2ff2a69c823631
-    21300004: 640153327750843429cc7683ce4688f3
-    21300006: 5107582bafa6456479fd9c6a416aa82c
-    21300008: a68d92b398a281449afd36cbaec2efd8
-    100100000: barashekk_GO
+  - first:
+      213: 21300000
+    second: 5115fffa8b21f8b45aac7a0ceff77d8f
+  - first:
+      213: 21300002
+    second: c8587d1335025ce4fb2ff2a69c823631
+  - first:
+      213: 21300004
+    second: 640153327750843429cc7683ce4688f3
+  - first:
+      213: 21300006
+    second: 5107582bafa6456479fd9c6a416aa82c
+  - first:
+      213: 21300008
+    second: a68d92b398a281449afd36cbaec2efd8
+  - first:
+      1001: 100100000
+    second: barashekk_GO
   externalObjects: {}
+  serializedVersion: 2
   userData: 
   assetBundleName: 
   assetBundleVariant: 
@@ -66,6 +145,8 @@ ScriptedImporter:
     isReadable: 0
     streamingMipmaps: 1
     streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
     nPOTScale: 1
     sRGBTexture: 1
     spriteMode: 2
@@ -84,6 +165,10 @@ ScriptedImporter:
     textureType: 8
     textureShape: 1
     singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
     filterMode: 1
     aniso: 1
     mipBias: 0
@@ -103,6 +188,7 @@ ScriptedImporter:
     maxTextureSizeSet: 0
     compressionQualitySet: 0
     textureFormatSet: 0
+    applyGammaDecoding: 0
   spriteImportData:
   - name: 
     originalName: 
@@ -125,6 +211,7 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
   mosaicSpriteImportData: []
   rigSpriteImportData:
   - name: eyes
@@ -141,10 +228,14 @@ ScriptedImporter:
     spriteID: 5115fffa8b21f8b45aac7a0ceff77d8f
     spriteBone:
     - name: bone_2
+      guid: 
       position: {x: 76.49333, y: 93.58888, z: 0}
       rotation: {x: 0, y: 0, z: 0.4267851, w: -0.90435314}
       length: 104.02573
       parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 0
     spriteOutline: []
     vertices:
     - position: {x: 151.08499, y: 0.47000122}
@@ -480,7 +571,8 @@ ScriptedImporter:
     - {x: 0, y: 27}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -122, y: -99}
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 126, y: 103}
   - name: "\u0421\u043B\u043E\u0439 10 \u043A\u043E\u043F\u0438\u044F"
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -495,10 +587,14 @@ ScriptedImporter:
     spriteID: c8587d1335025ce4fb2ff2a69c823631
     spriteBone:
     - name: bone_3
+      guid: 
       position: {x: 16.81749, y: 62.16533, z: 0}
       rotation: {x: 0, y: 0, z: 0.5988688, w: -0.80084723}
       length: 58.477955
       parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 0
     spriteOutline: []
     vertices:
     - position: {x: 35.347992, y: 0.34899902}
@@ -821,7 +917,8 @@ ScriptedImporter:
     - {x: 0, y: 24}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -10, y: -33}
+    uvTransform: {x: 168, y: 4}
+    spritePosition: {x: 178, y: 37}
   - name: "\u0421\u043B\u043E\u0439 11 \u043A\u043E\u043F\u0438\u044F 2"
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -836,10 +933,14 @@ ScriptedImporter:
     spriteID: 640153327750843429cc7683ce4688f3
     spriteBone:
     - name: bone_4
+      guid: 
       position: {x: 22.078735, y: 86.192856, z: 0}
       rotation: {x: 0, y: 0, z: 0.71451414, w: -0.699621}
       length: 80.90964
       parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 0
     spriteOutline: []
     vertices:
     - position: {x: 24.033997, y: 0.48600006}
@@ -1172,7 +1273,8 @@ ScriptedImporter:
     - {x: 0, y: 24}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 65, y: 48}
+    uvTransform: {x: 168, y: 84}
+    spritePosition: {x: 103, y: 36}
   - name: "body \u043A\u043E\u043F\u0438\u044F"
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1187,25 +1289,41 @@ ScriptedImporter:
     spriteID: 5107582bafa6456479fd9c6a416aa82c
     spriteBone:
     - name: bone_3
+      guid: 
       position: {x: 20.518606, y: 22.571423, z: 0}
       rotation: {x: 0, y: 0, z: 0.80279905, w: 0.5962498}
       length: 58.47795
       parentId: 1
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: bone_1
+      guid: 
       position: {x: 113.48311, y: 72.602234, z: 0}
       rotation: {x: 0, y: 0, z: 0.9999947, w: 0.003266285}
       length: 90.40627
       parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: bone_4
+      guid: 
       position: {x: 90.40629, y: -0.000040210256, z: 0}
       rotation: {x: 0, y: 0, z: 0.70195115, w: 0.7122252}
       length: 80.909615
       parentId: 1
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: bone_5
+      guid: 
       position: {x: 96.32543, y: -12.360821, z: 0}
       rotation: {x: 0, y: 0, z: -0.12724458, w: 0.9918714}
       length: 34.230576
       parentId: 1
+      color:
+        serializedVersion: 2
+        rgba: 0
     spriteOutline: []
     vertices:
     - position: {x: 108.875, y: 0.37600708}
@@ -1529,7 +1647,8 @@ ScriptedImporter:
     - {x: 0, y: 25}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -98, y: 124}
+    uvTransform: {x: 4, y: 173}
+    spritePosition: {x: 102, y: 49}
   - name: tail
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1544,15 +1663,23 @@ ScriptedImporter:
     spriteID: a68d92b398a281449afd36cbaec2efd8
     spriteBone:
     - name: bone_1
+      guid: 
       position: {x: 136.48311, y: 4.602234, z: 0}
       rotation: {x: 0, y: 0, z: 0.9999947, w: 0.003266285}
       length: 90.40627
       parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: bone_5
+      guid: 
       position: {x: 96.32542, y: -12.360817, z: 0}
       rotation: {x: 0, y: 0, z: -0.12724458, w: 0.9918714}
       length: 34.230576
       parentId: 0
+      color:
+        serializedVersion: 2
+        rgba: 0
     spriteOutline: []
     vertices:
     - position: {x: 35.156998, y: 0.30200195}
@@ -1844,84 +1971,55 @@ ScriptedImporter:
     - {x: 0, y: 23}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -75, y: 205}
-  platformSettings: []
-  mosaicLayers: 1
-  documentPivot: {x: 0, y: 0}
-  documentAlignment: 7
-  importHiddenLayers: 0
-  importedTextureWidth: 256
-  importedTextureHeight: 512
-  documentSize: {x: 330, y: 330}
-  textureActualWidth: 256
-  textureActualHeight: 512
-  spritePackingTag: 
-  resliceFromLayer: 0
-  characterMode: 1
-  mosaicPSDLayers: []
-  rigPSDLayers:
-  - name: eyes
-    spriteName: eyes
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 5115fffa8b21f8b45aac7a0ceff77d8f
-    layerID: 48
-    mosaicPosition: {x: 4, y: 4}
-  - name: "\u0421\u043B\u043E\u0439 10 \u043A\u043E\u043F\u0438\u044F"
-    spriteName: "\u0421\u043B\u043E\u0439 10 \u043A\u043E\u043F\u0438\u044F"
-    isGroup: 0
-    parentIndex: -1
-    spriteID: c8587d1335025ce4fb2ff2a69c823631
-    layerID: 76
-    mosaicPosition: {x: 168, y: 4}
-  - name: "\u0421\u043B\u043E\u0439 11 \u043A\u043E\u043F\u0438\u044F 2"
-    spriteName: "\u0421\u043B\u043E\u0439 11 \u043A\u043E\u043F\u0438\u044F 2"
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 640153327750843429cc7683ce4688f3
-    layerID: 78
-    mosaicPosition: {x: 168, y: 84}
-  - name: "body \u043A\u043E\u043F\u0438\u044F"
-    spriteName: "body \u043A\u043E\u043F\u0438\u044F"
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 5107582bafa6456479fd9c6a416aa82c
-    layerID: 80
-    mosaicPosition: {x: 4, y: 173}
-  - name: tail
-    spriteName: tail
-    isGroup: 0
-    parentIndex: -1
-    spriteID: a68d92b398a281449afd36cbaec2efd8
-    layerID: 20
-    mosaicPosition: {x: 4, y: 322}
+    uvTransform: {x: 4, y: 322}
+    spritePosition: {x: 79, y: 117}
   characterData:
     bones:
     - name: bone_1
+      guid: 
       position: {x: 215.48311, y: 121.60224, z: 0}
       rotation: {x: 0, y: 0, z: 0.9999947, w: 0.003266285}
       length: 90.40627
       parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: bone_2
+      guid: 
       position: {x: 13.479349, y: -74.90017, z: 0}
       rotation: {x: 0, y: 0, z: 0.9057423, w: 0.42382896}
       length: 104.0257
       parentId: 0
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: bone_3
+      guid: 
       position: {x: 20.518604, y: 22.571432, z: 0}
       rotation: {x: 0, y: 0, z: 0.80279905, w: 0.59624976}
       length: 58.47794
       parentId: 0
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: bone_4
+      guid: 
       position: {x: 90.40629, y: -0.000028983191, z: 0}
       rotation: {x: 0, y: 0, z: 0.70195115, w: 0.7122252}
       length: 80.90962
       parentId: 0
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: bone_5
+      guid: 
       position: {x: 96.32543, y: -12.360809, z: 0}
       rotation: {x: 0, y: 0, z: -0.12724456, w: 0.9918714}
       length: 34.230576
       parentId: 0
+      color:
+        serializedVersion: 2
+        rgba: 0
     parts:
     - spritePosition:
         x: 126
@@ -1930,6 +2028,8 @@ ScriptedImporter:
         height: 161
       spriteId: 5115fffa8b21f8b45aac7a0ceff77d8f
       bones: 01000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 178
         y: 37
@@ -1937,6 +2037,8 @@ ScriptedImporter:
         height: 72
       spriteId: c8587d1335025ce4fb2ff2a69c823631
       bones: 02000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 103
         y: 36
@@ -1944,6 +2046,8 @@ ScriptedImporter:
         height: 72
       spriteId: 640153327750843429cc7683ce4688f3
       bones: 03000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 102
         y: 49
@@ -1951,6 +2055,8 @@ ScriptedImporter:
         height: 141
       spriteId: 5107582bafa6456479fd9c6a416aa82c
       bones: 02000000000000000300000004000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 79
         y: 117
@@ -1958,18 +2064,170 @@ ScriptedImporter:
         height: 41
       spriteId: a68d92b398a281449afd36cbaec2efd8
       bones: 0000000004000000
+      parentGroup: 0
+      order: 0
     dimension: {x: 0, y: 0}
-  boneGOs:
-  - go: {fileID: 100012, guid: db562351396e6374c8afdfd7cd8b4693, type: 3}
-    index: 0
-  - go: {fileID: 100014, guid: db562351396e6374c8afdfd7cd8b4693, type: 3}
-    index: 1
-  - go: {fileID: 100016, guid: db562351396e6374c8afdfd7cd8b4693, type: 3}
-    index: 2
-  - go: {fileID: 100018, guid: db562351396e6374c8afdfd7cd8b4693, type: 3}
-    index: 3
-  - go: {fileID: 100020, guid: db562351396e6374c8afdfd7cd8b4693, type: 3}
-    index: 4
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: eye animation
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: e51fc23deb33d4d34b40bb92847114ed
+    layerID: 43
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "\u0421\u043B\u043E\u0439 8"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 57480381d72fd47c0afb80de2c7a113d
+    layerID: 30
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "\u0421\u043B\u043E\u0439 7"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 46beb95d396884372a413046858bb09d
+    layerID: 28
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "\u0421\u043B\u043E\u0439 6 \u043A\u043E\u043F\u0438\u044F 3"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d7c2c2e905ef14957ac9c13bca734c4a
+    layerID: 71
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "\u0421\u043B\u043E\u0439 5"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9618719e1cb204ee18eaf9cede5e3e45
+    layerID: 26
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: run animation
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: eb7c99bd196b7435b9c5224a3dab1a36
+    layerID: 45
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "\u0421\u043B\u043E\u0439 4"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 5
+    spriteID: 8ebe6e1e18f3c40bebdf0721e259a10a
+    layerID: 25
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "\u0421\u043B\u043E\u0439 4 \u043A\u043E\u043F\u0438\u044F"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 5
+    spriteID: ac1044226657c4fe1a31981723824a59
+    layerID: 24
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: eyes
+    spriteName: eyes
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5115fffa8b21f8b45aac7a0ceff77d8f
+    layerID: 48
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "\u0421\u043B\u043E\u0439 10 \u043A\u043E\u043F\u0438\u044F"
+    spriteName: "\u0421\u043B\u043E\u0439 10 \u043A\u043E\u043F\u0438\u044F"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c8587d1335025ce4fb2ff2a69c823631
+    layerID: 76
+    mosaicPosition: {x: 168, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "\u0421\u043B\u043E\u0439 11 \u043A\u043E\u043F\u0438\u044F 2"
+    spriteName: "\u0421\u043B\u043E\u0439 11 \u043A\u043E\u043F\u0438\u044F 2"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 640153327750843429cc7683ce4688f3
+    layerID: 78
+    mosaicPosition: {x: 168, y: 84}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "body \u043A\u043E\u043F\u0438\u044F"
+    spriteName: "body \u043A\u043E\u043F\u0438\u044F"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5107582bafa6456479fd9c6a416aa82c
+    layerID: 80
+    mosaicPosition: {x: 4, y: 173}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: tail
+    spriteName: tail
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a68d92b398a281449afd36cbaec2efd8
+    layerID: 20
+    mosaicPosition: {x: 4, y: 322}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
   generateGOHierarchy: 0
   textureAssetName: barashekk
   prefabAssetName: barashekk_GO
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

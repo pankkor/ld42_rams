@@ -1,32 +1,81 @@
 fileFormatVersion: 2
 guid: c25effaa43f23f3499435a3984e8168c
 ScriptedImporter:
-  fileIDToRecycleName:
-    100000: barashekk_GO/barashekk_GO
-    100002: "barashekk_GO/barashekk_GO/body \u043A\u043E\u043F\u0438\u044F"
-    100004: barashekk_GO/barashekk_GO/eyes
-    100006: barashekk_GO/barashekk_GO/tail
-    100012: barashekk_GO/barashekk_GO/leg_back
-    100014: barashekk_GO/barashekk_GO/leg_front
-    400000: barashekk_GO/barashekk_GO/Transform
-    400002: "barashekk_GO/barashekk_GO/body \u043A\u043E\u043F\u0438\u044F/Transform"
-    400004: barashekk_GO/barashekk_GO/eyes/Transform
-    400006: barashekk_GO/barashekk_GO/tail/Transform
-    400012: barashekk_GO/barashekk_GO/leg_back/Transform
-    400014: barashekk_GO/barashekk_GO/leg_front/Transform
-    2800000: barashekk
-    21200000: "barashekk_GO/barashekk_GO/body \u043A\u043E\u043F\u0438\u044F/SpriteRenderer"
-    21200002: barashekk_GO/barashekk_GO/eyes/SpriteRenderer
-    21200004: barashekk_GO/barashekk_GO/tail/SpriteRenderer
-    21200010: barashekk_GO/barashekk_GO/leg_back/SpriteRenderer
-    21200012: barashekk_GO/barashekk_GO/leg_front/SpriteRenderer
-    21300000: b8d2a1d3e2569e745ad758e8de73517c
-    21300002: f9fa81186bf8b034195ee1ac78128123
-    21300004: 95ef4dea3ff060244ae9fb0c596ad0a4
-    21300006: 211d8579c00ee7d4db7d11ca908a3982
-    21300008: 424b8460c427d0b4c90d0483e0324cc6
-    100100000: barashekk_GO
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: barashekk_GO/barashekk_GO
+  - first:
+      1: 100002
+    second: "barashekk_GO/barashekk_GO/body \u043A\u043E\u043F\u0438\u044F"
+  - first:
+      1: 100004
+    second: barashekk_GO/barashekk_GO/eyes
+  - first:
+      1: 100006
+    second: barashekk_GO/barashekk_GO/tail
+  - first:
+      1: 100012
+    second: barashekk_GO/barashekk_GO/leg_back
+  - first:
+      1: 100014
+    second: barashekk_GO/barashekk_GO/leg_front
+  - first:
+      4: 400000
+    second: barashekk_GO/barashekk_GO/Transform
+  - first:
+      4: 400002
+    second: "barashekk_GO/barashekk_GO/body \u043A\u043E\u043F\u0438\u044F/Transform"
+  - first:
+      4: 400004
+    second: barashekk_GO/barashekk_GO/eyes/Transform
+  - first:
+      4: 400006
+    second: barashekk_GO/barashekk_GO/tail/Transform
+  - first:
+      4: 400012
+    second: barashekk_GO/barashekk_GO/leg_back/Transform
+  - first:
+      4: 400014
+    second: barashekk_GO/barashekk_GO/leg_front/Transform
+  - first:
+      28: 2800000
+    second: barashekk
+  - first:
+      212: 21200000
+    second: "barashekk_GO/barashekk_GO/body \u043A\u043E\u043F\u0438\u044F/SpriteRenderer"
+  - first:
+      212: 21200002
+    second: barashekk_GO/barashekk_GO/eyes/SpriteRenderer
+  - first:
+      212: 21200004
+    second: barashekk_GO/barashekk_GO/tail/SpriteRenderer
+  - first:
+      212: 21200010
+    second: barashekk_GO/barashekk_GO/leg_back/SpriteRenderer
+  - first:
+      212: 21200012
+    second: barashekk_GO/barashekk_GO/leg_front/SpriteRenderer
+  - first:
+      213: 21300000
+    second: b8d2a1d3e2569e745ad758e8de73517c
+  - first:
+      213: 21300002
+    second: f9fa81186bf8b034195ee1ac78128123
+  - first:
+      213: 21300004
+    second: 95ef4dea3ff060244ae9fb0c596ad0a4
+  - first:
+      213: 21300006
+    second: 211d8579c00ee7d4db7d11ca908a3982
+  - first:
+      213: 21300008
+    second: 424b8460c427d0b4c90d0483e0324cc6
+  - first:
+      1001: 100100000
+    second: barashekk_GO
   externalObjects: {}
+  serializedVersion: 2
   userData: 
   assetBundleName: 
   assetBundleVariant: 
@@ -47,6 +96,8 @@ ScriptedImporter:
     isReadable: 0
     streamingMipmaps: 1
     streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
     nPOTScale: 1
     sRGBTexture: 1
     spriteMode: 2
@@ -65,6 +116,10 @@ ScriptedImporter:
     textureType: 8
     textureShape: 1
     singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
     filterMode: 1
     aniso: 1
     mipBias: 0
@@ -84,6 +139,7 @@ ScriptedImporter:
     maxTextureSizeSet: 0
     compressionQualitySet: 0
     textureFormatSet: 0
+    applyGammaDecoding: 0
   spriteImportData:
   - name: 
     originalName: 
@@ -106,6 +162,7 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
   mosaicSpriteImportData: []
   rigSpriteImportData:
   - name: eyes
@@ -128,8 +185,9 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -122, y: -99}
-  - name: leg_front
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 126, y: 103}
+  - name: "\u0421\u043B\u043E\u0439 10 \u043A\u043E\u043F\u0438\u044F"
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -149,8 +207,9 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -10, y: -33}
-  - name: leg_back
+    uvTransform: {x: 168, y: 4}
+    spritePosition: {x: 178, y: 37}
+  - name: "\u0421\u043B\u043E\u0439 11 \u043A\u043E\u043F\u0438\u044F 2"
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -170,7 +229,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 65, y: 48}
+    uvTransform: {x: 168, y: 84}
+    spritePosition: {x: 103, y: 36}
   - name: "body \u043A\u043E\u043F\u0438\u044F"
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -191,7 +251,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -98, y: 124}
+    uvTransform: {x: 4, y: 173}
+    spritePosition: {x: 102, y: 49}
   - name: tail
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -212,22 +273,118 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -75, y: 205}
+    uvTransform: {x: 4, y: 322}
+    spritePosition: {x: 79, y: 117}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
   platformSettings: []
   mosaicLayers: 1
+  characterMode: 1
   documentPivot: {x: 0, y: 0}
   documentAlignment: 7
   importHiddenLayers: 0
-  importedTextureWidth: 256
-  importedTextureHeight: 512
-  documentSize: {x: 330, y: 330}
-  textureActualWidth: 256
-  textureActualHeight: 512
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
   spritePackingTag: 
   resliceFromLayer: 0
-  characterMode: 1
   mosaicPSDLayers: []
   rigPSDLayers:
+  - name: eye animation
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: e4ec75520f57f476aabe1af6d1c2ca8f
+    layerID: 43
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "\u0421\u043B\u043E\u0439 8"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d4fbebcb035f94b8189de83e6ec551b4
+    layerID: 30
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "\u0421\u043B\u043E\u0439 7"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 0
+    spriteID: c69bb46846ac44023b4aa9c2aea21778
+    layerID: 28
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "\u0421\u043B\u043E\u0439 6 \u043A\u043E\u043F\u0438\u044F 3"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3e8c602b5ee694066a81530f28d2faa2
+    layerID: 71
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "\u0421\u043B\u043E\u0439 5"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1fc021a98b8ca4a43ab31264a2cab12d
+    layerID: 26
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: run animation
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: c3e1ba226c9d1472ea6ad65c1fb916ee
+    layerID: 45
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "\u0421\u043B\u043E\u0439 4"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 5
+    spriteID: 8bcab484b068f4a6a9e95088e93826e6
+    layerID: 25
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "\u0421\u043B\u043E\u0439 4 \u043A\u043E\u043F\u0438\u044F"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 5
+    spriteID: 56f1b66ac4907457b8fbbf2535202209
+    layerID: 24
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
   - name: eyes
     spriteName: eyes
     isGroup: 0
@@ -235,6 +392,9 @@ ScriptedImporter:
     spriteID: b8d2a1d3e2569e745ad758e8de73517c
     layerID: 48
     mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: "\u0421\u043B\u043E\u0439 10 \u043A\u043E\u043F\u0438\u044F"
     spriteName: "\u0421\u043B\u043E\u0439 10 \u043A\u043E\u043F\u0438\u044F"
     isGroup: 0
@@ -242,6 +402,9 @@ ScriptedImporter:
     spriteID: f9fa81186bf8b034195ee1ac78128123
     layerID: 76
     mosaicPosition: {x: 168, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: "\u0421\u043B\u043E\u0439 11 \u043A\u043E\u043F\u0438\u044F 2"
     spriteName: "\u0421\u043B\u043E\u0439 11 \u043A\u043E\u043F\u0438\u044F 2"
     isGroup: 0
@@ -249,6 +412,9 @@ ScriptedImporter:
     spriteID: 95ef4dea3ff060244ae9fb0c596ad0a4
     layerID: 78
     mosaicPosition: {x: 168, y: 84}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: "body \u043A\u043E\u043F\u0438\u044F"
     spriteName: "body \u043A\u043E\u043F\u0438\u044F"
     isGroup: 0
@@ -256,6 +422,9 @@ ScriptedImporter:
     spriteID: 211d8579c00ee7d4db7d11ca908a3982
     layerID: 80
     mosaicPosition: {x: 4, y: 173}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: tail
     spriteName: tail
     isGroup: 0
@@ -263,11 +432,14 @@ ScriptedImporter:
     spriteID: 424b8460c427d0b4c90d0483e0324cc6
     layerID: 20
     mosaicPosition: {x: 4, y: 322}
-  characterData:
-    bones: []
-    parts: []
-    dimension: {x: 0, y: 0}
-  boneGOs: []
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
   generateGOHierarchy: 0
   textureAssetName: barashekk
   prefabAssetName: barashekk_GO
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []
