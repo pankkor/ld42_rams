@@ -1,5 +1,6 @@
 # Ludum Dare #42: Running out of space
 August 2018
+
 (we participated only for one day and unfortunately couldn't finish it in time)
 
 [Play WebGL version](https://pankkor.github.io/ld42_wgl/)
