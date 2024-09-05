@@ -13,7 +13,7 @@ Programming: by pankkor(me)
 Animations and art by [Bo Ko](https://www.artstation.com/bo_ko)
 
 ## Objective
-Push your opponent out and be the last man standing.
+Push your opponent out and be the last ram standing.
 
 ### Controls
 __Player 1:__ `Arows` + `Right Shift` to __Dash__
